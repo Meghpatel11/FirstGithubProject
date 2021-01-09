@@ -1,6 +1,8 @@
-# First mini project
+# Small project
 
-Simple app clculate BMI index
+1. Simple app clculate BMI index
+   -BMI APP: Tikiner GUI
+2. Draw shapes
+   -By using OOP's & Matplotlib
 
-BMI APP: Tikiner GUI
 
