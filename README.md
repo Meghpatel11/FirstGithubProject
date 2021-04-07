@@ -1,4 +1,5 @@
 # Small project
+Some random python projects
 
 1. Simple app clculate BMI index
    :BMI APP: Tikiner GUI
